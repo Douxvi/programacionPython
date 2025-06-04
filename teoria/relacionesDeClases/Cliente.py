@@ -1,4 +1,4 @@
-# cliente.py 2.0
+# cliente.py 
 # Fecha: Mar, 2025
 # @version: Gaelcyborg 1.1
 # @autor: Douxvi
