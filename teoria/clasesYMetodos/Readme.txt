@@ -1,4 +1,6 @@
-details
+# Fecha: Mar, 2025.
+# Versión: 1.0 (clasesYMetodos)
+# Autor: David Gael Osorio Del Olmo (douxvi) o (cyborgael) 
 Menu.py: Eencargada de la interacción inicial con el usuario. El presenta el atributo __saludo y se ha hecho privado (convención con __).
 Añadí type hints para mejorar la legibilidad (saludo_inicial: str).
 
