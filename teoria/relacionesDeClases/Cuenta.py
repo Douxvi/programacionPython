@@ -1,4 +1,4 @@
-# cuenta.py 1.1
+# cuenta.py 2.0
 # Fecha: Mar, 2025
 # @version: Cyborgael 1.1 
 # @autor: Douxvi
