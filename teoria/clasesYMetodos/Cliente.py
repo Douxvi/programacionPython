@@ -1,6 +1,6 @@
 # cliente.py
 # Fecha: Feb, 2025
-# @version: Cyborg 1.0
+# @version: Gaelcyborg 1.0
 # @autor: Douxvi
 
 class Cliente:
@@ -11,7 +11,7 @@ class Cliente:
         """
         Nuevo objeto Cliente.
 
-        Args:
+        Defs:
             nombre_completo (str): Nombre completo del cliente.
             domicilio (str): Dirección del cliente.
             anios_edad (int): Edad del cliente.
