@@ -50,7 +50,7 @@ class Cuenta:
         """
         Retira un monto de la cuenta.
 
-        Args:
+        Defs:
             monto (float): La cantidad a retirar. Debe ser positiva y no exceder el saldo.
         """
         if monto <= 0:
