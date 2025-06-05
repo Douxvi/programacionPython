@@ -1,6 +1,6 @@
 # cliente.py 2.0
 # Fecha: Mar, 2025
-# @version: Gaelcyborg 1.1
+# @version: Cyborgael 1.1
 # @autor: Douxvi
 
 from cuenta import Cuenta # Importamos la clase Cuenta
