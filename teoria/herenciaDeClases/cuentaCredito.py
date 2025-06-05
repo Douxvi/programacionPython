@@ -1,6 +1,6 @@
 # cuentaCredito.py (Cuenta hija)
 # Fecha: May, 2025
-# @version: Cyborgaelini 1.3 
+# @version: Cyborgael 1.3 
 # @autor: Douxvi
 
 from cuenta import Cuenta
