@@ -1,6 +1,6 @@
 # menu.py
 # Fecha: Feb, 2025
-# @version: Cyborg 1.0
+# @version: Cyborgael 1.0
 # @autor: Douxvi
 
 class Menu:
