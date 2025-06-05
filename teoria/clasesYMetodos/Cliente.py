@@ -1,6 +1,6 @@
 # cliente.py
 # Fecha: Feb, 2025
-# @version: Gaelcyborg 1.0
+# @version: Cyborgael 1.0
 # @autor: Douxvi
 
 class Cliente:
