@@ -1,7 +1,6 @@
-#
-#
-#
-#
+# Fecha: Abr, 2025.
+# Versión: 3.0 (listaDeCuentas)
+# Autor: David Gael Osorio Del Olmo (douxvi) o (cyborgael) 
 Cuenta.py 3.0: Se añadió el método __str__, la validación de tipos de cuenta 
 También e removió el atributo propietario de esta clase,ya que el Cliente será el contenedor principal de esta información
 Se añadió una lista de tipos de cuenta permitidos como atributo de clase como TIPOS_DE_CUENTA_VALIDOS.
