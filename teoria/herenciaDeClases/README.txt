@@ -36,3 +36,5 @@ Métodos Adicionales: Se usan: get_limite_credito, get_deuda_actual, get_disponi
 Justificación: Estos métodos proporcionan información relevante y específica para una cuenta de crédito, como el límite total, la deuda actual (si la hay), y cuánto crédito queda disponible
 justificando el diseño especializado de esta clase.
 A estás alturas no sorprende que esté __str__ sobrescrito ya que muestra información vital como el tipo "Credito", el límite y el crédito disponible, además de la información base.
+
+PruebasCuentas.py: Es un script de pruebas para los objetos de las clases de cuentas que hemos definido (Cuenta, CuentaDebito, CuentaCredito). Este script instanciará un objeto de cada una, los agregará a una lista y luego iterará sobre la lista para probar sus métodos, incluyendo los que han sido sobrescritos y los específicos de cada subclase.
