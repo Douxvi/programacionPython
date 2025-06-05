@@ -1,6 +1,6 @@
-#
-#
-#
+# Fecha: May, 2025.
+# Versión: 4.0 (herenciaDeClases)
+# Autor: David Gael Osorio Del Olmo (douxvi) o (cyborgael) 
 cuenta.py 4.0 (Clase Madre)
 La clase Cuenta ahora servirá como base progenitora madre de dios
 Como primer cambio tenemos los atributos Protegidos en _saldo_actual y _propietario se marcan como protegidos, para indicar que pueden ser accedidos por clases hijas.
