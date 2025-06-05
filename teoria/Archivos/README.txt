@@ -1,6 +1,6 @@
-#
-#
-#
+# Fecha: Jun, 2025.
+# Versión: 1.1 (Archivos)
+# Autor: David Gael Osorio Del Olmo (douxvi) o (cyborgael) 
 Explicación del archivo gestor bancario: 
 Se implementó la persistencia de datos para los clientes y sus cuentas utilizando archivos. Cargando la información al inicio y guardandola al finalizar la sesión.
 
