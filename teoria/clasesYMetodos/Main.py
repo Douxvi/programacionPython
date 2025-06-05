@@ -1,6 +1,6 @@
 # main.py
 # Fecha: Feb, 2025
-# @version: Gaelinicyb 1.0
+# @version: Cyborgael 1.0
 # @autor: Douxvi
 
 from menu import Menu
