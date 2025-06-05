@@ -1,5 +1,5 @@
 # cuenta.py 4.0 (Cuenta madre)
-# Fecha: Abr, 2025
+# Fecha: May, 2025
 # @version: Cyborgael 1.3
 # @autor: Douxvi
 
